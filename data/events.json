@@ -1,0 +1,178 @@
+[
+  {
+    "event_id": "E-chain-guests",
+    "aggregate_id": "WSABFEUA-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:01:00Z",
+    "changes": [
+      {
+        "field": "guests_count",
+        "old": 1,
+        "new": 5
+      }
+    ]
+  },
+  {
+    "event_id": "E-chain-departure",
+    "aggregate_id": "WSABFEUA-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:02:00Z",
+    "changes": [
+      {
+        "field": "planned_departure_time",
+        "old": "2026-03-14T10:00:00Z",
+        "new": "2026-03-14T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "event_id": "E-sofabed-requested",
+    "aggregate_id": "ADHQHRTP-1",
+    "event_type": "Reservation.CustomFields.Updated",
+    "created_at": "2026-03-09T08:03:00Z",
+    "changes": [
+      {
+        "field": "requested_sofabed",
+        "old": false,
+        "new": true
+      }
+    ]
+  },
+  {
+    "event_id": "E-override-set",
+    "aggregate_id": "ADHQHRTP-1",
+    "event_type": "Reservation.CustomFields.Updated",
+    "created_at": "2026-03-09T08:04:00Z",
+    "changes": [
+      {
+        "field": "number_of_guests_override",
+        "old": null,
+        "new": 5
+      }
+    ]
+  },
+  {
+    "event_id": "E-arrival-later",
+    "aggregate_id": "LNRKYYHN-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:05:00Z",
+    "changes": [
+      {
+        "field": "planned_arrival_time",
+        "old": "2026-03-12T15:00:00Z",
+        "new": "2026-03-14T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "event_id": "E-arrival-earlier",
+    "aggregate_id": "LNRKYYHN-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:06:00Z",
+    "changes": [
+      {
+        "field": "planned_arrival_time",
+        "old": "2026-03-14T15:00:00Z",
+        "new": "2026-03-11T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "event_id": "E-move-listing",
+    "aggregate_id": "WAEQBZXT-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:07:00Z",
+    "changes": [
+      {
+        "field": "listing_id",
+        "old": "bc22654527d94b8bfef90c9f",
+        "new": "4b4a495ebcc125a877bf11d0"
+      }
+    ]
+  },
+  {
+    "event_id": "E-duplicate",
+    "aggregate_id": "HBMMWVZN-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:00:00Z",
+    "changes": [
+      {
+        "field": "guests_count",
+        "old": 1,
+        "new": 5
+      }
+    ]
+  },
+  {
+    "event_id": "E-duplicate",
+    "aggregate_id": "HBMMWVZN-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:00:00Z",
+    "changes": [
+      {
+        "field": "guests_count",
+        "old": 1,
+        "new": 5
+      }
+    ]
+  },
+  {
+    "event_id": "E-new-reservation",
+    "aggregate_id": "CNNCLBXG-1",
+    "event_type": "Reservation.Created",
+    "created_at": "2026-03-09T08:08:00Z",
+    "changes": [],
+    "reservation": {
+      "reservation_id": "CNNCLBXG-1",
+      "listing_id": "af8a1878b1512c9e5f34925b",
+      "status": "Confirmed",
+      "planned_arrival_time": "2026-03-11T15:00:00Z",
+      "planned_departure_time": "2026-03-14T10:00:00Z",
+      "guests_count": 5,
+      "infants": 0,
+      "customFields": {
+        "number_of_guests_override": null,
+        "requested_sofabed": false
+      }
+    }
+  },
+  {
+    "event_id": "E-completed-guests",
+    "aggregate_id": "YPCJKAQD-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:09:00Z",
+    "changes": [
+      {
+        "field": "guests_count",
+        "old": 1,
+        "new": 5
+      }
+    ]
+  },
+  {
+    "event_id": "E-checkout",
+    "aggregate_id": "UEQMHYKP-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:10:00Z",
+    "changes": [
+      {
+        "field": "status",
+        "old": "InHouse",
+        "new": "CheckedOut"
+      }
+    ]
+  },
+  {
+    "event_id": "E-after-checkout",
+    "aggregate_id": "VJHJMTPV-1",
+    "event_type": "Reservation.Updated",
+    "created_at": "2026-03-09T08:11:00Z",
+    "changes": [
+      {
+        "field": "guests_count",
+        "old": 1,
+        "new": 5
+      }
+    ]
+  }
+]

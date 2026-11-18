@@ -1,0 +1,535 @@
+[
+  {
+    "reservation_id": "ZDBDWHKH-1",
+    "listing_id": "66caa060b7db817dce3e6570",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "PNZMHFYJ-1",
+    "listing_id": "06cf56477c3526e6f0d35a9d",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "GKCPDWAZ-1",
+    "listing_id": "06cf56477c3526e6f0d35a9d",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-13T15:00:00Z",
+    "planned_departure_time": "2026-03-16T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "HVVYDQGK-1",
+    "listing_id": "7cc3e39cc7f7102c70507aa6",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "KFSCVURJ-1",
+    "listing_id": "7cc3e39cc7f7102c70507aa6",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "YKHNXKGY-1",
+    "listing_id": "b1c9cd3090123c2d03df7a2b",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "DWYWAZBL-1",
+    "listing_id": "b1c9cd3090123c2d03df7a2b",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "CLCGDXUV-1",
+    "listing_id": "1b8163e7b416f782d8be3bfb",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "KWXNCHCS-1",
+    "listing_id": "1b8163e7b416f782d8be3bfb",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 5,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "SDFRQJWH-1",
+    "listing_id": "2a05910491ec31cca774d57b",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "TPQMXFXW-1",
+    "listing_id": "2a05910491ec31cca774d57b",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 2,
+    "infants": 1,
+    "customFields": {
+      "number_of_guests_override": 5,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "RCEWZGTY-1",
+    "listing_id": "fc94ba761eb979b0d7070590",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "VGUNWZQZ-1",
+    "listing_id": "fc94ba761eb979b0d7070590",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "DVVPEUSN-1",
+    "listing_id": "18dea6934957fde18118d4c9",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "SLXLJUDY-1",
+    "listing_id": "18dea6934957fde18118d4c9",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "BNQLCCXE-1",
+    "listing_id": "fdc4b2bf0fdc036636a98abc",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "ESFEMPGU-1",
+    "listing_id": "fdc4b2bf0fdc036636a98abc",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 4,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "EAFQTYMJ-1",
+    "listing_id": "3bc216b598afcb1cf04c218c",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "RQKXJCQC-1",
+    "listing_id": "3bc216b598afcb1cf04c218c",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "HSWQRSVE-1",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "WSABFEUA-1",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 1,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "HXAPEGRD-1",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-15T15:00:00Z",
+    "planned_departure_time": "2026-03-18T10:00:00Z",
+    "guests_count": 1,
+    "infants": 1,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "RFGEKQLR-1",
+    "listing_id": "58c4bf9129425020196dc45d",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "ADHQHRTP-1",
+    "listing_id": "58c4bf9129425020196dc45d",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "UQTPZYFN-1",
+    "listing_id": "161bc13bec353ec393cf1bc4",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "LNRKYYHN-1",
+    "listing_id": "161bc13bec353ec393cf1bc4",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-12T15:00:00Z",
+    "planned_departure_time": "2026-03-16T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "WAEQBZXT-1",
+    "listing_id": "bc22654527d94b8bfef90c9f",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 4,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "VQDHSSFH-1",
+    "listing_id": "4b4a495ebcc125a877bf11d0",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "FUPVNNAY-1",
+    "listing_id": "4b4a495ebcc125a877bf11d0",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-15T15:00:00Z",
+    "planned_departure_time": "2026-03-18T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "SQBJMFYF-1",
+    "listing_id": "d62c7ef218b06b09c6761dc9",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "FNTBPBAA-1",
+    "listing_id": "d62c7ef218b06b09c6761dc9",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-14T15:00:00Z",
+    "planned_departure_time": "2026-03-17T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  },
+  {
+    "reservation_id": "LCAQZETM-1",
+    "listing_id": "01993f2e93f4b25d8afc35ca",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "HBMMWVZN-1",
+    "listing_id": "01993f2e93f4b25d8afc35ca",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 1,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "MGQZNYNU-1",
+    "listing_id": "af8a1878b1512c9e5f34925b",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "UWWKUHFB-1",
+    "listing_id": "d1fd29f2987c46457271d7a8",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "YPCJKAQD-1",
+    "listing_id": "d1fd29f2987c46457271d7a8",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 1,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "UEQMHYKP-1",
+    "listing_id": "2a0ab7d0132f2369bb90e466",
+    "status": "InHouse",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "VJHJMTPV-1",
+    "listing_id": "2a0ab7d0132f2369bb90e466",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-14T10:00:00Z",
+    "guests_count": 1,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "MLGDCJBN-1",
+    "listing_id": "a1991f414e8534d60d20b43e",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-05T15:00:00Z",
+    "planned_departure_time": "2026-03-10T10:00:00Z",
+    "guests_count": 2,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "LWYWXATL-1",
+    "listing_id": "a1991f414e8534d60d20b43e",
+    "status": "Canceled",
+    "planned_arrival_time": "2026-03-11T15:00:00Z",
+    "planned_departure_time": "2026-03-12T10:00:00Z",
+    "guests_count": 5,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": false
+    }
+  },
+  {
+    "reservation_id": "CZJKJTQF-1",
+    "listing_id": "a1991f414e8534d60d20b43e",
+    "status": "Confirmed",
+    "planned_arrival_time": "2026-03-12T15:00:00Z",
+    "planned_departure_time": "2026-03-15T10:00:00Z",
+    "guests_count": 3,
+    "infants": 0,
+    "customFields": {
+      "number_of_guests_override": null,
+      "requested_sofabed": true
+    }
+  }
+]

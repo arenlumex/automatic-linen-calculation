@@ -1,0 +1,226 @@
+[
+  {
+    "task_id": "T-no-next-guest-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "66caa060b7db817dce3e6570",
+    "reservation_id": "ZDBDWHKH-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-next-guest-late-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "06cf56477c3526e6f0d35a9d",
+    "reservation_id": "PNZMHFYJ-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-no-sofabed-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "7cc3e39cc7f7102c70507aa6",
+    "reservation_id": "HVVYDQGK-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-sofabed-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "b1c9cd3090123c2d03df7a2b",
+    "reservation_id": "YKHNXKGY-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-5-guests-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "1b8163e7b416f782d8be3bfb",
+    "reservation_id": "CLCGDXUV-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-override-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "2a05910491ec31cca774d57b",
+    "reservation_id": "SDFRQJWH-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-studio-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "fc94ba761eb979b0d7070590",
+    "reservation_id": "RCEWZGTY-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-no-bathroom-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "18dea6934957fde18118d4c9",
+    "reservation_id": "DVVPEUSN-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-2-bathrooms-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "fdc4b2bf0fdc036636a98abc",
+    "reservation_id": "BNQLCCXE-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-2-sofabeds-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "3bc216b598afcb1cf04c218c",
+    "reservation_id": "EAFQTYMJ-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-chain-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "reservation_id": "HSWQRSVE-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-chain-B",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "reservation_id": "WSABFEUA-1",
+    "planned_start": "2026-03-14T10:00:00Z"
+  },
+  {
+    "task_id": "T-chain-C",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "reservation_id": "HXAPEGRD-1",
+    "planned_start": "2026-03-18T10:00:00Z"
+  },
+  {
+    "task_id": "T-deep-cleaning",
+    "task_type": "Deep Cleaning",
+    "status": "Pending",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "reservation_id": "HSWQRSVE-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-missing-reservation",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "reservation_id": "RZDZMDAQ-1",
+    "planned_start": "2026-03-20T10:00:00Z"
+  },
+  {
+    "task_id": "T-custom-fields-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "58c4bf9129425020196dc45d",
+    "reservation_id": "RFGEKQLR-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-custom-fields-B",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "58c4bf9129425020196dc45d",
+    "reservation_id": "ADHQHRTP-1",
+    "planned_start": "2026-03-14T10:00:00Z"
+  },
+  {
+    "task_id": "T-arrival-change-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "161bc13bec353ec393cf1bc4",
+    "reservation_id": "UQTPZYFN-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-move-B",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "bc22654527d94b8bfef90c9f",
+    "reservation_id": "WAEQBZXT-1",
+    "planned_start": "2026-03-14T10:00:00Z"
+  },
+  {
+    "task_id": "T-move-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "4b4a495ebcc125a877bf11d0",
+    "reservation_id": "VQDHSSFH-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-move-C",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "4b4a495ebcc125a877bf11d0",
+    "reservation_id": "FUPVNNAY-1",
+    "planned_start": "2026-03-18T10:00:00Z"
+  },
+  {
+    "task_id": "T-date-change-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "d62c7ef218b06b09c6761dc9",
+    "reservation_id": "SQBJMFYF-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-duplicate-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "01993f2e93f4b25d8afc35ca",
+    "reservation_id": "LCAQZETM-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-new-reservation-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "af8a1878b1512c9e5f34925b",
+    "reservation_id": "MGQZNYNU-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-completed-A",
+    "task_type": "Main Cleaning",
+    "status": "Completed",
+    "listing_id": "d1fd29f2987c46457271d7a8",
+    "reservation_id": "UWWKUHFB-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-checked-out-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "2a0ab7d0132f2369bb90e466",
+    "reservation_id": "UEQMHYKP-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  },
+  {
+    "task_id": "T-checked-out-B",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "2a0ab7d0132f2369bb90e466",
+    "reservation_id": "VJHJMTPV-1",
+    "planned_start": "2026-03-14T10:00:00Z"
+  },
+  {
+    "task_id": "T-skip-canceled-A",
+    "task_type": "Main Cleaning",
+    "status": "Pending",
+    "listing_id": "a1991f414e8534d60d20b43e",
+    "reservation_id": "MLGDCJBN-1",
+    "planned_start": "2026-03-10T10:00:00Z"
+  }
+]

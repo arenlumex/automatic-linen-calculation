@@ -1,0 +1,107 @@
+[
+  {
+    "listing_id": "66caa060b7db817dce3e6570",
+    "name": "Aurora 101 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "06cf56477c3526e6f0d35a9d",
+    "name": "Aurora 102 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "7cc3e39cc7f7102c70507aa6",
+    "name": "Aurora 103 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "b1c9cd3090123c2d03df7a2b",
+    "name": "Aurora 104 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "1b8163e7b416f782d8be3bfb",
+    "name": "Aurora 105 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "2a05910491ec31cca774d57b",
+    "name": "Aurora 106 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "fc94ba761eb979b0d7070590",
+    "name": "Aurora 201 ST",
+    "linen_attribute": "G:3;Beds:1;BedSpots:2;Sofabeds:1;SofaSpots:1"
+  },
+  {
+    "listing_id": "18dea6934957fde18118d4c9",
+    "name": "Nova 401 SS",
+    "linen_attribute": "G:2;Beds:1;BedSpots:2;Sofabeds:0;SofaSpots:0"
+  },
+  {
+    "listing_id": "fdc4b2bf0fdc036636a98abc",
+    "name": "Lumen 301 3BR-2BA",
+    "linen_attribute": "G:8;Beds:3;BedSpots:6;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "3bc216b598afcb1cf04c218c",
+    "name": "Lumen 501 2BR",
+    "linen_attribute": "G:8;Beds:2;BedSpots:4;Sofabeds:2;SofaSpots:4"
+  },
+  {
+    "listing_id": "8dd86c8fd658ff3e3a159120",
+    "name": "Haven 211 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "58c4bf9129425020196dc45d",
+    "name": "Haven 212 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "161bc13bec353ec393cf1bc4",
+    "name": "Haven 213 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "bc22654527d94b8bfef90c9f",
+    "name": "Haven 214 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "4b4a495ebcc125a877bf11d0",
+    "name": "Lumen 302 3BR-2BA",
+    "linen_attribute": "G:8;Beds:3;BedSpots:6;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "d62c7ef218b06b09c6761dc9",
+    "name": "Haven 215 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "01993f2e93f4b25d8afc35ca",
+    "name": "Haven 216 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "af8a1878b1512c9e5f34925b",
+    "name": "Haven 217 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "d1fd29f2987c46457271d7a8",
+    "name": "Haven 218 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "2a0ab7d0132f2369bb90e466",
+    "name": "Haven 219 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  },
+  {
+    "listing_id": "a1991f414e8534d60d20b43e",
+    "name": "Haven 220 2BR",
+    "linen_attribute": "G:6;Beds:2;BedSpots:4;Sofabeds:1;SofaSpots:2"
+  }
+]
